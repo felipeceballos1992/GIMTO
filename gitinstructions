@@ -1,0 +1,16 @@
+Actualizar repo local
+git pull origin main --rebase
+
+Ver que cambió
+git status
+
+Preparar cambios para commit
+git add . o git add archivo 1 o 2 depende cuales o todos con el punto
+
+Guardar cambios en historial local
+git commit -m "Descripción del commit"
+
+Subir cambios a GitHub
+git push origin main
+
+
